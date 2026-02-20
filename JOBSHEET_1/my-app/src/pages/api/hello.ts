@@ -1,0 +1,15 @@
+// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+import type { NextApiRequest, NextApiResponse } from 'next'
+import Link from 'next/link'
+
+type Data = {
+  name: string
+  alamat: string
+}
+
+export default function handler(
+  req: NextApiRequest,
+  res: NextApiResponse<Data>
+) {
+  res.status(200).json({ name: 'John Doe', alamat: 'Jl. Suka-suka No.1' })
+}
