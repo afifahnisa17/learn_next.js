@@ -19,7 +19,7 @@ Berikut daftar materi praktikum setiap minggu (klik link buat lihat isi folderny
 
 | Jobsheet | Materi                     | Link Praktikum                                                                 |
 |--------- |----------------------------|-------------------------------------------------------------------------------|
-|     2     | Setup Next Js di visual studio code         | [Praktikum Jobsheet 1](./JOBSHEET_1)                                               |
+|     2     | Setup Next Js di visual studio code         | [Praktikum Jobsheet 2](./JOBSHEET_1)                                               |
 
 
 ---
