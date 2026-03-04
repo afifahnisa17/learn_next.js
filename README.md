@@ -21,6 +21,9 @@ Berikut daftar materi praktikum setiap minggu (klik link buat lihat isi folderny
 |--------- |----------------------------|-------------------------------------------------------------------------------|
 |     2     | Setup Next Js di visual studio code         | [Praktikum Jobsheet 2](./JOBSHEET_2)                                               |
 |     3     | Page Dan Layout         | [Praktikum Jobsheet 3](./JOBSHEET_3)                                               |
+|     4     | Link Navigation         | [Praktikum Jobsheet 4](./JOBSHEET_4)                                               |
+|     5     | Styling         | [Praktikum Jobsheet 5](./JOBSHEET_5)                                               |
+|     6     | Custom Document dan Error Page pada Next.js         | [Praktikum Jobsheet 6](./JOBSHEET_6)                                               |
 
 
 ---
