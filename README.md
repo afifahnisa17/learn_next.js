@@ -27,6 +27,8 @@ Berikut daftar materi praktikum setiap minggu (klik link buat lihat isi folderny
 |     7     | Custom Document dan Error Page pada Next.js         | [Praktikum Jobsheet 7](./JOBSHEET_7)                                               |
 |     8     | Custom Document dan Error Page pada Next.js         | [Praktikum Jobsheet 8](./JOBSHEET_8)                                               |
 |     9     | Custom Document dan Error Page pada Next.js         | [Praktikum Jobsheet 9](./JOBSHEET_9)                                               |
+|     10     | Custom Document dan Error Page pada Next.js         | [Praktikum Jobsheet 10](./JOBSHEET_10)                                               |
+|     11     | Custom Document dan Error Page pada Next.js         | [Praktikum Jobsheet 11](./JOBSHEET_11)                                               |
 
 
 ---
