@@ -29,6 +29,9 @@ Berikut daftar materi praktikum setiap minggu (klik link buat lihat isi folderny
 |     9     | Server Side Rendering       | [Praktikum Jobsheet 9](./JOBSHEET_9)                                               |
 |     10     | Static Side Generation       | [Praktikum Jobsheet 10](./JOBSHEET_10)                                               |
 |     11     | Dynamic Routing & Static Generation       | [Praktikum Jobsheet 11](./JOBSHEET_11)                                               |
+|     12     | Incremental Static Generation      | [Praktikum Jobsheet 12](./JOBSHEET_12)                                               |
+|     13     | Middleware & Route Protection      | [Praktikum Jobsheet 13](./JOBSHEET_13)                                               |
+|     14     | Sistem Autentikasi dan Proteksi Route     | [Praktikum Jobsheet 14](./JOBSHEET_14)                                               |
 
 
 ---
